@@ -1,0 +1,9 @@
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.deps.json
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\bin\Debug\netstandard2.0\Matchbook.Model.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.csprojAssemblyReference.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.AssemblyInfoInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.AssemblyInfo.cs
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.csproj.CoreCompileInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Model\obj\Debug\netstandard2.0\Matchbook.Model.pdb

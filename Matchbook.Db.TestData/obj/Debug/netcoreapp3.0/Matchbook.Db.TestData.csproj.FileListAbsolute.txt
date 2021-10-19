@@ -1,0 +1,14 @@
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.deps.json
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.TestData.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Model.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\bin\Debug\netcoreapp3.0\Matchbook.Model.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csprojAssemblyReference.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.AssemblyInfoInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.AssemblyInfo.cs
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csproj.CoreCompileInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.csproj.CopyComplete
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db.TestData\obj\Debug\netcoreapp3.0\Matchbook.Db.TestData.pdb

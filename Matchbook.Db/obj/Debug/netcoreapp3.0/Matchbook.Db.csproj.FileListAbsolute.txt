@@ -1,0 +1,12 @@
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.deps.json
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.pdb
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csprojAssemblyReference.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfoInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfo.cs
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CoreCompileInputs.cache
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CopyComplete
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\rpadashetty\Desktop\test\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.pdb
